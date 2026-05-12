@@ -1,4 +1,4 @@
-name: 01- 🎬 Youtube Downloader
+name: DLY
 
 on:
   workflow_dispatch:
